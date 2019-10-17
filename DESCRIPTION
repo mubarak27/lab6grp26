@@ -1,0 +1,16 @@
+Package: lab6grp26
+Type: Package
+Title: lab 6
+Version: 0.1.0
+Author: mubarak hussain <mubarak.hussain9796@gmail.com>
+Maintainer: mubarak hussain <mubarak.hussain9796@gmail.com>
+Description: lab6 group 26.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+Suggests: testthat,
+    knitr,
+    rmarkdown
+VignetteBuilder: knitr
+RoxygenNote: 6.1.1
+Imports: methods, parallel
